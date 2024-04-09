@@ -5,7 +5,7 @@
 <template>
     <!-- About End -->
 
-    <div class="container-fluid bg-dark text-white-50 py-4 fixed-bottom">
+    <div class="container-fluid bg-dark text-white-50 py-4 ">
         <div class="container">
             <div class="row g-5">
                 <div class="col-md-6 text-center text-md-start">
